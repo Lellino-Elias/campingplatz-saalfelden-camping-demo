@@ -81,12 +81,12 @@ const campingplatzSaalfelden: CampsiteConfig = {
       {
         title: "Direkt am Fischteich",
         text: "Der Platz liegt unmittelbar am hauseigenen Fischteich — Wasser, Spiegelungen und Bergblick beginnen gleich hinter deinem Stellplatz.",
-        image: { src: `${IMG}/fischteich-steg.webp`, alt: "Fischteich mit Holzsteg vor dem Theurerhof" },
+        image: { src: `${IMG}/fischteich-steg.webp`, alt: "Fischteich mit Holzsteg am Landgasthof Theurerhof" },
       },
       {
         title: "Mitten am Hof",
         text: "Nur wenige Schritte trennen deinen Platz vom Landgasthof — morgens zum Frühstück, abends auf die Terrasse, ganz ohne Anfahrt.",
-        image: { src: `${IMG}/hof-terrasse.webp`, alt: "Terrasse und Garten am Landgasthof Theurerhof" },
+        image: { src: `${IMG}/hof-terrasse.webp`, alt: "Eingang und Außenbereich des Landgasthofs Theurerhof" },
       },
     ],
   },

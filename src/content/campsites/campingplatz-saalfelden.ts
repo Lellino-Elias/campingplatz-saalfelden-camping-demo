@@ -17,8 +17,7 @@ const campingplatzSaalfelden: CampsiteConfig = {
   brandKind: "Camping am Landgasthof",
   regionLong: "Saalfelden am Steinernen Meer · Pinzgau · Salzburg",
 
-  theme: "schiefer",
-  heroVariant: "left",
+  heroVariant: "center",
 
   claim: "Kleiner Platz am Fischteich, großes Bergpanorama",
   claimEmphasis: "am Fischteich",
@@ -137,7 +136,6 @@ const campingplatzSaalfelden: CampsiteConfig = {
   },
 
   kontakt: {
-    coords: { lat: 47.426617, lng: 12.848105 },
     tel: "+43 664 540 1930",
     telHref: "tel:+436645401930",
     mail: "info@campingplatz-saalfelden.at",

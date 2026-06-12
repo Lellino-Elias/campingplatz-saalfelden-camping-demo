@@ -136,6 +136,7 @@ const campingplatzSaalfelden: CampsiteConfig = {
   },
 
   kontakt: {
+    coords: { lat: 47.417513, lng: 12.877458 },
     tel: "+43 664 540 1930",
     telHref: "tel:+436645401930",
     mail: "info@campingplatz-saalfelden.at",

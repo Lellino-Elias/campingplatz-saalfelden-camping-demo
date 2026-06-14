@@ -34,7 +34,7 @@ const campingplatzSaalfelden: CampsiteConfig = {
   pillars: [
     {
       title: "Klein und ruhig gelegen",
-      text: "Eingebettet in Wiesen und Wald findest du hier einen überschaubaren Platz, auf dem du wirklich zur Ruhe kommst — ohne auf eine gute Anbindung zu verzichten.",
+      text: "Eingebettet in Wiesen und Wald: ein überschaubarer, ruhiger Platz mit guter Anbindung ans Umland.",
       image: { src: `${IMG}/natur-wiese.webp`, alt: "Der Theurerhof in den Wiesen bei Saalfelden" },
     },
     {
@@ -44,7 +44,7 @@ const campingplatzSaalfelden: CampsiteConfig = {
     },
     {
       title: "Landgasthof Theurerhof",
-      text: "Im Gasthof lässt du dir regionale Spezialitäten à la carte schmecken und sitzt nach einem langen Tag gemütlich auf der Sonnenterrasse.",
+      text: "Im Gasthof gibt es regionale Spezialitäten à la carte und eine gemütliche Sonnenterrasse.",
       image: { src: `${IMG}/gasthof-terrasse.webp`, alt: "Sonnenterrasse des Landgasthofs Theurerhof" },
     },
   ],
@@ -80,7 +80,7 @@ const campingplatzSaalfelden: CampsiteConfig = {
     features: [
       {
         title: "Direkt am Fischteich",
-        text: "Der Platz liegt unmittelbar am hauseigenen Fischteich — Wasser, Spiegelungen und Bergblick beginnen gleich hinter deinem Stellplatz.",
+        text: "Der Platz liegt direkt am hauseigenen Fischteich — Bergblick inklusive.",
         image: { src: `${IMG}/fischteich-steg.webp`, alt: "Fischteich mit Holzsteg am Landgasthof Theurerhof" },
       },
       {
